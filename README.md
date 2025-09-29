@@ -194,7 +194,7 @@ erDiagram
 
 # Part 2
 
-- I used to play D&D, when I was younger and as recently as.. Covid times! So I had some thoughts on how it should work.\
+- I used to play D&D, when I was younger and as recently as.. Covid times! So I had some thoughts on how it should work.
 - Most of the notes are actually in "README_part2.md" within part2 folder
 
 ### Notes:
@@ -204,8 +204,7 @@ erDiagram
 ### Being upfront about AI usage/Vibecoding
 I used AI (ChatGPT) to do some of the following:
 - write the script/test.sh (needed modifications after generation)
-- This is not AI, but I let npm generate the package.json, which I is normal
 - I let it generate part of the README.md in the code, with my own modifications and updates and changes
 - I let it generate the scaffolding. Mainly because my day-to-day is in python, and I haven't worked with setting up Node.js server in a while. I guess I could have just googled a template and had the same outcome, but ChatGPT
-- I also had it generate the characters and monsters based on type.js, which I think was a great use of AI.
+- I also had it generate the characters and monsters based on type.js, which I think was a great use of AI. (The stuff in data for sheets and maps)
 - I also used AI to check my code, and get me some optimizzation ideas.
