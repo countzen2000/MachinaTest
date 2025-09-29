@@ -1,0 +1,138 @@
+{
+  "map": {
+    "width": 8,
+    "height": 6,
+    "grid": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        10,
+        3,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "sheets": {
+    "characters": [
+      {
+        "name": "Aria Swiftwind",
+        "class": "Rogue",
+        "race": "Elf",
+        "level": 1,
+        "xp": 0,
+        "stats": {
+          "strength": 8,
+          "dexterity": 16,
+          "constitution": 10,
+          "intelligence": 12,
+          "wisdom": 10,
+          "charisma": 14
+        },
+        "health": 8,
+        "description": "Quick on her feet, quicker with a quip."
+      },
+      {
+        "name": "Borin Stonehelm",
+        "class": "Fighter",
+        "race": "Dwarf",
+        "level": 1,
+        "xp": 0,
+        "stats": {
+          "strength": 16,
+          "dexterity": 10,
+          "constitution": 14,
+          "intelligence": 8,
+          "wisdom": 10,
+          "charisma": 8
+        },
+        "health": 14,
+        "description": "A shield like a wall, a hammer like thunder."
+      }
+    ],
+    "monsters": [
+      {
+        "kind": "Goblin",
+        "stats": {
+          "strength": 8,
+          "dexterity": 14,
+          "constitution": 8,
+          "intelligence": 8,
+          "wisdom": 8,
+          "charisma": 6
+        },
+        "health": 7,
+        "description": "A sneaky nuisance."
+      },
+      {
+        "kind": "Wolf",
+        "stats": {
+          "strength": 12,
+          "dexterity": 15,
+          "constitution": 10,
+          "intelligence": 3,
+          "wisdom": 12,
+          "charisma": 6
+        },
+        "health": 11,
+        "description": "A hungry predator."
+      }
+    ]
+  },
+  "activeCharacters": [
+    10
+  ],
+  "activeMonsters": []
+}
