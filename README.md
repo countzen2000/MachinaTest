@@ -195,7 +195,7 @@ erDiagram
 # Part 2
 
 - I used to play D&D, when I was younger and as recently as.. Covid times! So I had some thoughts on how it should work.
-- Most of the notes are actually in "README_part2.md" within part2 folder
+- Most of the notes are actually in "README.md" within part2 folder
 
 ### Notes:
 - I really didn't like the /api, would have used /v1 or added versioning if I could, but I am guessing you all had some test scripts you want to run against this.
